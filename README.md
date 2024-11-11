@@ -77,5 +77,5 @@ In my recent project, I learned how to use the `fetch` API in JavaScript for mak
 
 ## Author
 
-- Website - [RAJ GHARAT](https://api-handling-with-java-script-vhw4-gyo8fonmi.vercel.app/)
-- Github Profile- [@rajgharat07](https://github.com/rajgharat07?tab=repositories)
+- Website - [YASH GHARAT](https://api-handling-with-java-script-vhw4-gyo8fonmi.vercel.app/)
+- Github Profile- [@yashgharat24](https://github.com/rajgharat07?tab=repositories)
