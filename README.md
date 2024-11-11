@@ -42,7 +42,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Repository](https://github.com/rajgharat07/API-Handling-With-JavaScript)
+- Solution URL: [Github Repository](https://github.com/yashgharat24/API-Handling-With-JavaScript)
 - Live Site URL: [Click here to check Demo](https://api-handling-with-java-script-vhw4-gyo8fonmi.vercel.app/)
 
 ## My process
